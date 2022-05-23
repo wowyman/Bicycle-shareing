@@ -1,0 +1,15 @@
+{
+   "code_postale":123,
+   "commune": "New city",
+   "name": "nom station",
+   "address":"addresse indicetive",
+   "position": {
+     "latitude": 45,
+     "longitude":5,
+   },
+   "banking": true,
+   "bonus": false,
+   "status": "OPEN",
+   "lastUpdate": "123123123"
+}
+   
