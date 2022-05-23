@@ -11,3 +11,4 @@ How to install project:
         npm install
 4. Run the project:
     Open root file of project in File Explorer, and excute file both.bat
+5. Open localhost:8080 to see app
